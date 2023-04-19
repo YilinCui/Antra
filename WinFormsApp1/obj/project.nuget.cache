@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JwYsArgKkP0niXtDfI1AnEJttY5reyINlGebToR4oRvpYbo3uaH/uykBXZ1sq1JG4tfN1Ulm8f7OSai5mYl3mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eugen\\Desktop\\Antra Assignment\\Antra\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
