@@ -1,0 +1,15 @@
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\bin\Debug\net6.0\HW2_Fibonacci.exe
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\bin\Debug\net6.0\HW2_Fibonacci.deps.json
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\bin\Debug\net6.0\HW2_Fibonacci.runtimeconfig.json
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\bin\Debug\net6.0\HW2_Fibonacci.dll
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\bin\Debug\net6.0\HW2_Fibonacci.pdb
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\HW2_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\HW2_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\HW2_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\HW2_Fibonacci.AssemblyInfo.cs
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\HW2_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\HW2_Fibonacci.dll
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\refint\HW2_Fibonacci.dll
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\HW2_Fibonacci.pdb
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\HW2_Fibonacci.genruntimeconfig.cache
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Fibonacci\obj\Debug\net6.0\ref\HW2_Fibonacci.dll

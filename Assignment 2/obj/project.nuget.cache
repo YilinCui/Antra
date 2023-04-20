@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v0/5g5lGTPWoHP0uT2rCxYPt5WVqIscO3Gfn4V1/2FZP6QUFOZJOYtj/BRqwu2Mr0ssvMHCXO2mBvTnBU5STiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eugen\\Desktop\\Antra Assignment\\Antra\\Assignment 2\\Assignment2_NumberReverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

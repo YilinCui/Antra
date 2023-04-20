@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcuJv5N/ksrwFckN0HIRhPLOMGn9f27NEQOdzRuvcHfJqn2/fgkfkM2D7cuyPM7Jh8NFyv3eAWtmsmGLEDtGpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eugen\\Desktop\\Antra Assignment\\Antra\\HW2_Fibonacci\\HW2_Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

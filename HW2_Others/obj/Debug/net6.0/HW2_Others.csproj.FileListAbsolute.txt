@@ -1,0 +1,15 @@
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\bin\Debug\net6.0\HW2_Others.exe
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\bin\Debug\net6.0\HW2_Others.deps.json
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\bin\Debug\net6.0\HW2_Others.runtimeconfig.json
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\bin\Debug\net6.0\HW2_Others.dll
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\bin\Debug\net6.0\HW2_Others.pdb
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\HW2_Others.csproj.AssemblyReference.cache
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\HW2_Others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\HW2_Others.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\HW2_Others.AssemblyInfo.cs
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\HW2_Others.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\HW2_Others.dll
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\refint\HW2_Others.dll
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\HW2_Others.pdb
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\HW2_Others.genruntimeconfig.cache
+C:\Users\eugen\Desktop\Antra Assignment\Antra\HW2_Others\obj\Debug\net6.0\ref\HW2_Others.dll
